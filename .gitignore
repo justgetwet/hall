@@ -1,0 +1,11 @@
+docs/_site
+docs/.sass-cache
+docs/.jekyll-cache
+docs/.jekyll-metadata
+docs/vendor
+jekyll/_site
+jekyll/.sass-cache
+jekyll/.jekyll-cache
+jekyll/.jekyll-metadata
+jekyll/vendor
+jekyll/bendor

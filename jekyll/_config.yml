@@ -1,0 +1,17 @@
+url: "https://brown-jellyfish.surge.sh/"
+baseurl: "/"
+title: "Brown Jellyfish"
+github_username: "Akira"
+
+exclude: ['bendor']
+
+# why bendor but vender
+
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
